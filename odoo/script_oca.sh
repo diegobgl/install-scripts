@@ -5,6 +5,7 @@ cd /opt/odoo/server/
 
 mkdir "OCA-addons"
 
+cd  oca-custom/
 
 git clone -b 12.0 https://github.com/OCA/rest-framework.git
 
